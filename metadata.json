@@ -1,0 +1,7 @@
+{
+  "name": "CareerBloom — Career Intelligence Terminal",
+  "description": "Bloomberg-style career intelligence platform tracking skills demand, salary velocity, career weather signals, and real-time Bloom Score job readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
